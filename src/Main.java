@@ -81,7 +81,6 @@ public class Main {
                     System.out.println("⚠️ Invalid option, please try again.");
             }
         }
-
         scanner.close();
     }
 }

@@ -106,5 +106,4 @@ public class UserCRUD {
             System.out.println("❌ Error fetching users: " + e.getMessage());
         }
     }
-
 }
